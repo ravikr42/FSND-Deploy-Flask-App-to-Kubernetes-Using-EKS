@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: ravikr42@gmail.com
+    Default: ravikr42
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
