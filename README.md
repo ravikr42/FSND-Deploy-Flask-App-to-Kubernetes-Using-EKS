@@ -39,3 +39,4 @@ For more detail about each of these steps, see the project lesson [here](https:/
 
 Test commit 1
 Test commit 2
+Test commit 3
